@@ -1,0 +1,116 @@
+En la Ronda 1
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Piedra  puntaje 0
+El Jugador Eduardo     Del país Costa Rica    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Tijera  puntaje 15
+El Jugador Eduardo     Del país Costa Rica    seleccionó Papel  puntaje 15
+
+
+En la Ronda 3
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Piedra  puntaje 30
+El Jugador Eduardo     Del país Costa Rica    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 4
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Tijera  puntaje 35
+El Jugador Eduardo     Del país Costa Rica    seleccionó Tijera  puntaje 20
+
+
+En la Ronda 5
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Papel  puntaje 50
+El Jugador Eduardo     Del país Costa Rica    seleccionó Piedra  puntaje 20
+
+
+El gran GANADOR es: DAMARYS con el puntaje de 50 contra 20 de Eduardo
+
+
+
+En la Ronda 1
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 0
+
+
+En la Ronda 2
+El Jugador Vilma     Del país Costa Rica    selecionó   Piedra  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 15
+
+
+En la Ronda 3
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Piedra  puntaje 30
+
+
+En la Ronda 4
+El Jugador Vilma     Del país Costa Rica    selecionó   Piedra  puntaje 20
+El Jugador Elmer     Del país Peru    seleccionó Piedra  puntaje 35
+
+
+En la Ronda 5
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 35
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 35
+
+
+Se dio un EMPATE entre Vilma y Elmer con el puntaje de 35
+
+
+
+En la Ronda 1
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 15
+El Jugador Mario      Del país Bolivia    seleccionó Piedra  puntaje 0
+
+
+En la Ronda 2
+El Jugador Elmer     Del país Peru    selecionó   Tijera  puntaje 30
+El Jugador Mario      Del país Bolivia    seleccionó Papel  puntaje 0
+
+
+En la Ronda 3
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 30
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 4
+El Jugador Elmer     Del país Peru    selecionó   Piedra  puntaje 45
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 5
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 45
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 30
+
+
+El gran GANADOR es: Elmer con el puntaje de 45 contra 30 de Mario 
+
+
+
+En la Ronda 1
+El Jugador cajkasf     Del país alsdfkja    selecionó   Piedra  puntaje 15
+El Jugador laskfj     Del país lajksfd    seleccionó Tijera  puntaje 0
+
+
+En la Ronda 2
+El Jugador cajkasf     Del país alsdfkja    selecionó   Papel  puntaje 15
+El Jugador laskfj     Del país lajksfd    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 3
+El Jugador cajkasf     Del país alsdfkja    selecionó   Piedra  puntaje 15
+El Jugador laskfj     Del país lajksfd    seleccionó Papel  puntaje 30
+
+
+En la Ronda 4
+El Jugador cajkasf     Del país alsdfkja    selecionó   Tijera  puntaje 30
+El Jugador laskfj     Del país lajksfd    seleccionó Papel  puntaje 30
+
+
+En la Ronda 5
+El Jugador cajkasf     Del país alsdfkja    selecionó   Tijera  puntaje 45
+El Jugador laskfj     Del país lajksfd    seleccionó Papel  puntaje 30
+
+
+El gran GANADOR es: cajkasf con el puntaje de 45 contra 30 de laskfj
+
+
+

@@ -1,0 +1,261 @@
+En la Ronda 1
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Piedra  puntaje 0
+El Jugador Eduardo     Del país Costa Rica    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Tijera  puntaje 15
+El Jugador Eduardo     Del país Costa Rica    seleccionó Papel  puntaje 15
+
+
+En la Ronda 3
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Piedra  puntaje 30
+El Jugador Eduardo     Del país Costa Rica    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 4
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Tijera  puntaje 35
+El Jugador Eduardo     Del país Costa Rica    seleccionó Tijera  puntaje 20
+
+
+En la Ronda 5
+El Jugador DAMARYS     Del país PUERTO RICO    selecionó   Papel  puntaje 50
+El Jugador Eduardo     Del país Costa Rica    seleccionó Piedra  puntaje 20
+
+
+El gran GANADOR es: DAMARYS con el puntaje de 50 contra 20 de Eduardo
+
+
+
+En la Ronda 1
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 0
+
+
+En la Ronda 2
+El Jugador Vilma     Del país Costa Rica    selecionó   Piedra  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 15
+
+
+En la Ronda 3
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 15
+El Jugador Elmer     Del país Peru    seleccionó Piedra  puntaje 30
+
+
+En la Ronda 4
+El Jugador Vilma     Del país Costa Rica    selecionó   Piedra  puntaje 20
+El Jugador Elmer     Del país Peru    seleccionó Piedra  puntaje 35
+
+
+En la Ronda 5
+El Jugador Vilma     Del país Costa Rica    selecionó   Tijera  puntaje 35
+El Jugador Elmer     Del país Peru    seleccionó Papel  puntaje 35
+
+
+Se dio un EMPATE entre Vilma y Elmer con el puntaje de 35
+
+
+
+En la Ronda 1
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 15
+El Jugador Mario      Del país Bolivia    seleccionó Piedra  puntaje 0
+
+
+En la Ronda 2
+El Jugador Elmer     Del país Peru    selecionó   Tijera  puntaje 30
+El Jugador Mario      Del país Bolivia    seleccionó Papel  puntaje 0
+
+
+En la Ronda 3
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 30
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 4
+El Jugador Elmer     Del país Peru    selecionó   Piedra  puntaje 45
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 5
+El Jugador Elmer     Del país Peru    selecionó   Papel  puntaje 45
+El Jugador Mario      Del país Bolivia    seleccionó Tijera  puntaje 30
+
+
+El gran GANADOR es: Elmer con el puntaje de 45 contra 30 de Mario 
+
+
+
+En la Ronda 1
+El Jugador Moises     Del país Costa Rica    selecionó   Papel  puntaje 0
+El Jugador Elmer     Del país Nicaragua    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 2
+El Jugador Moises     Del país Costa Rica    selecionó   Piedra  puntaje 5
+El Jugador Elmer     Del país Nicaragua    seleccionó Piedra  puntaje 20
+
+
+En la Ronda 3
+El Jugador Moises     Del país Costa Rica    selecionó   Tijera  puntaje 20
+El Jugador Elmer     Del país Nicaragua    seleccionó Papel  puntaje 20
+
+
+En la Ronda 4
+El Jugador Moises     Del país Costa Rica    selecionó   Papel  puntaje 35
+El Jugador Elmer     Del país Nicaragua    seleccionó Piedra  puntaje 20
+
+
+En la Ronda 5
+El Jugador Moises     Del país Costa Rica    selecionó   Piedra  puntaje 40
+El Jugador Elmer     Del país Nicaragua    seleccionó Piedra  puntaje 25
+
+
+El gran GANADOR es: Moises con el puntaje de 40 contra 25 de Elmer
+
+
+
+En la Ronda 1
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 0
+El Jugador pepe      Del país nicaragua    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador carlos     Del país costa rica    selecionó   Tijera  puntaje 5
+El Jugador pepe      Del país nicaragua    seleccionó Tijera  puntaje 20
+
+
+En la Ronda 3
+El Jugador carlos     Del país costa rica    selecionó   Tijera  puntaje 5
+El Jugador pepe      Del país nicaragua    seleccionó Piedra  puntaje 35
+
+
+En la Ronda 4
+El Jugador carlos     Del país costa rica    selecionó   Papel  puntaje 10
+El Jugador pepe      Del país nicaragua    seleccionó Papel  puntaje 40
+
+
+En la Ronda 5
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 25
+El Jugador pepe      Del país nicaragua    seleccionó Tijera  puntaje 40
+
+
+El gran GANADOR es: pepe  con el puntaje de 40 contra 25 de carlos
+
+
+
+En la Ronda 1
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 5
+El Jugador maria      Del país panama    seleccionó Piedra  puntaje 5
+
+
+En la Ronda 2
+El Jugador carlos     Del país costa rica    selecionó   Papel  puntaje 5
+El Jugador maria      Del país panama    seleccionó Tijera  puntaje 20
+
+
+En la Ronda 3
+El Jugador carlos     Del país costa rica    selecionó   Tijera  puntaje 10
+El Jugador maria      Del país panama    seleccionó Tijera  puntaje 25
+
+
+En la Ronda 4
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 25
+El Jugador maria      Del país panama    seleccionó Tijera  puntaje 25
+
+
+En la Ronda 5
+El Jugador carlos     Del país costa rica    selecionó   Papel  puntaje 30
+El Jugador maria      Del país panama    seleccionó Papel  puntaje 30
+
+
+Se dio un EMPATE entre carlos y maria  con el puntaje de 30
+
+
+
+En la Ronda 1
+El Jugador afasf     Del país casfad    selecionó   Piedra  puntaje 0
+El Jugador asfda     Del país asf    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador afasf     Del país casfad    selecionó   Tijera  puntaje 0
+El Jugador asfda     Del país asf    seleccionó Piedra  puntaje 30
+
+
+En la Ronda 3
+El Jugador afasf     Del país casfad    selecionó   Tijera  puntaje 15
+El Jugador asfda     Del país asf    seleccionó Papel  puntaje 30
+
+
+En la Ronda 4
+El Jugador afasf     Del país casfad    selecionó   Piedra  puntaje 30
+El Jugador asfda     Del país asf    seleccionó Tijera  puntaje 30
+
+
+En la Ronda 5
+El Jugador afasf     Del país casfad    selecionó   Papel  puntaje 45
+El Jugador asfda     Del país asf    seleccionó Piedra  puntaje 30
+
+
+El gran GANADOR es: afasf con el puntaje de 45 contra 30 de asfda
+
+
+
+En la Ronda 1
+El Jugador sdkjAH     Del país JDSALFKJ    selecionó   Piedra  puntaje 0
+El Jugador AFDAS     Del país ASFD    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador sdkjAH     Del país JDSALFKJ    selecionó   Piedra  puntaje 15
+El Jugador AFDAS     Del país ASFD    seleccionó Tijera  puntaje 15
+
+
+En la Ronda 3
+El Jugador sdkjAH     Del país JDSALFKJ    selecionó   Piedra  puntaje 15
+El Jugador AFDAS     Del país ASFD    seleccionó Papel  puntaje 30
+
+
+En la Ronda 4
+El Jugador sdkjAH     Del país JDSALFKJ    selecionó   Tijera  puntaje 15
+El Jugador AFDAS     Del país ASFD    seleccionó Piedra  puntaje 45
+
+
+En la Ronda 5
+El Jugador sdkjAH     Del país JDSALFKJ    selecionó   Tijera  puntaje 30
+El Jugador AFDAS     Del país ASFD    seleccionó Papel  puntaje 45
+
+
+El gran GANADOR es: AFDAS con el puntaje de 45 contra 30 de sdkjAH
+
+
+
+En la Ronda 1
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 0
+El Jugador maria     Del país nicaragua    seleccionó Papel  puntaje 15
+
+
+En la Ronda 2
+El Jugador carlos     Del país costa rica    selecionó   Tijera  puntaje 0
+El Jugador maria     Del país nicaragua    seleccionó Piedra  puntaje 30
+
+
+En la Ronda 3
+El Jugador carlos     Del país costa rica    selecionó   Tijera  puntaje 15
+El Jugador maria     Del país nicaragua    seleccionó Papel  puntaje 30
+
+
+En la Ronda 4
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 30
+El Jugador maria     Del país nicaragua    seleccionó Tijera  puntaje 30
+
+
+En la Ronda 5
+El Jugador carlos     Del país costa rica    selecionó   Piedra  puntaje 45
+El Jugador maria     Del país nicaragua    seleccionó Tijera  puntaje 30
+
+
+El gran GANADOR es: carlos con el puntaje de 45 contra 30 de maria
+
+
+
